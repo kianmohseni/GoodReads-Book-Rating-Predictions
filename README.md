@@ -25,8 +25,6 @@ This hybrid approach ensures a balance between personalized recommendations and 
       - Prediction = Global Average + User Bias + Item Bias
 
 # Tools and Libraries
-- Python: Core language for implementation.
-- Jupyter Notebook: For exploratory data analysis and model development.
 - NumPy & Pandas: Data manipulation and numerical computations.
 
 # Results
