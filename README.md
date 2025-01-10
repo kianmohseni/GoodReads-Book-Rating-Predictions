@@ -22,7 +22,7 @@ This hybrid approach ensures a balance between personalized recommendations and 
   - Uses gradient descent to iteratively optimize these biases.
   - Regularization is applied to prevent overfitting (lambda term tuned via validation).
   - Final predictions combine global averages, user biases, and item biases:
-Prediction = Global Average + User Bias + Item Bias
+      - Prediction = Global Average + User Bias + Item Bias
 
 # Tools and Libraries
 - Python: Core language for implementation.
